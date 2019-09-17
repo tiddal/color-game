@@ -90,5 +90,5 @@ function reset() {
 	pickedColor = colorPicker();
 	colorDisplay.textContent = pickedColor;
 	colorize();
-	h1.style.backgroundColor = 'steelblue';
+	h1.style.backgroundColor = '#7ec0ee';
 }
