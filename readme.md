@@ -15,4 +15,4 @@
 
 ## Side Notes:
 
-This small project was developped in Colt Steel's - The Web Developer Bootcamp.
+This small project was developed in Colt Steel's - The Web Developer Bootcamp.
