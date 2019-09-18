@@ -7,7 +7,7 @@
 - Try to guess what color matches the RGB value
 - Play it on Easy or Hard
 
-## Tecnologies used:
+## Technologies used:
 
 - HTML 5
 - CSS 3
